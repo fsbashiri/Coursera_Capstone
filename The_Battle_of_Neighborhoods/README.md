@@ -1,0 +1,2 @@
+# A Comparison of America’s Large Cities In Terms of Access to Ethnic Foods
+This repository contains the capstone project (week 4 and 5) of Applied Data Science offered by IBM on Coursera. In this project, we leveraged the Foursquare data to explore some major US cities in terms of access to Ethnic Food. Such data driven project is in the interest of two groups: 1) historians and social science researchers who are interested in the impact of immigration on American societies; and 2) business investors who are interested in the establishment of a new ethnic restaurant.
